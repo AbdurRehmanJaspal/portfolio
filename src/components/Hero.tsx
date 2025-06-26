@@ -53,7 +53,7 @@ const Hero = () => {
       minH="100vh"
       display="flex"
       alignItems="center"
-      pt={{ base: "120px", md: "80px"}}
+      pt={{ base: "120px", md: "80px" }}
       bg="gray.900"
       position="relative"
       overflow="hidden"
@@ -174,7 +174,7 @@ const Hero = () => {
               </Button>
               <Button
                 as="a"
-                href="https://www.linkedin.com/in/abdullah-jaspal"
+                href="https://www.linkedin.com/in/abdur-rehman-jaspal-5b5943371/"
                 target="_blank"
                 variant="ghost"
                 leftIcon={<FaLinkedin />}
