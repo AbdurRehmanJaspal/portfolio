@@ -53,7 +53,7 @@ const Hero = () => {
       minH="100vh"
       display="flex"
       alignItems="center"
-      pt={{ base: "120px", md: "80px" }}
+      pt={{ base: "120px", md: "80px"}}
       bg="gray.900"
       position="relative"
       overflow="hidden"
