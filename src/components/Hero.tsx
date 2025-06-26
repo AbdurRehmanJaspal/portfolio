@@ -14,14 +14,14 @@ import { motion } from "framer-motion";
 import {
   FaGithub,
   FaLinkedin,
-  FaStackOverflow,
-  FaPatreon,
-  FaTwitter,
-  FaDownload,
+  // FaStackOverflow,
+  // FaPatreon,
+  // FaTwitter,
+  // FaDownload,
 } from "react-icons/fa";
 import Typed from "typed.js";
 import myImage from "../assets/profile.jpg";
-import resume from "../assets/Abdullah Jaspal(Senior Software Engineer) (1).pdf";
+// import resume from "../assets/Abdullah Jaspal(Senior Software Engineer) (1).pdf";
 import { useEffect, useRef } from "react";
 
 const MotionBox = motion(Box);
